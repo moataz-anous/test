@@ -6,6 +6,10 @@
   text-decoration: none;
   font-family: "Cairo", sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
+
 .nav {
   display: flex;
   align-items: center;
